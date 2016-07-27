@@ -1,0 +1,12 @@
+//
+//  CPWBindMobileController.h
+//  cepin
+//
+//  Created by ceping on 16/4/1.
+//  Copyright © 2016年 talebase. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+@interface CPWBindMobileController : UIViewController
+- (instancetype)initWithComeFromString:(NSString *)comeFromString;
+@end

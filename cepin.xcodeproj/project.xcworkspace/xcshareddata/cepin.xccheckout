@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6FD3833B-1449-431E-B330-A5DDA5D801A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cepin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++6616</key>
+		<string>https://jc.du@211.147.239.185/svn/cepin/ios/Release/Version3.0.1</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cepin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++6616</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++6616</key>
+		<string>https://jc.du@211.147.239.185/svn/cepin</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://jc.du@211.147.239.185/svn/cepin/ios/Release/Version3.0.1/cepin.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++6616</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++6616</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Version3.0.1</string>
+		</dict>
+	</array>
+</dict>
+</plist>

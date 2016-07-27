@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5D76D0ABF584B5FCF6785E8BC50186737856A28B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5D76D0ABF584B5FCF6785E8BC50186737856A28B" : 0,
+    "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "51DAC76D-9165-4818-BF1C-9B6B404E2339",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5D76D0ABF584B5FCF6785E8BC50186737856A28B" : "cepin\/",
+    "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837" : "cepin3.2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cepin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cepin.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.kuntalebase.com:iOS\/cepin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D76D0ABF584B5FCF6785E8BC50186737856A28B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/kun.lin@211.147.239.185\/svn\/cepin",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837"
+    }
+  ]
+}

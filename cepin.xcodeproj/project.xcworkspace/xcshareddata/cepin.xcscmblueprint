@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6FD3833B-1449-431E-B330-A5DDA5D801A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837" : "cepin3.2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cepin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cepin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/kun.lin@211.147.239.185\/svn\/cepin",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "dff0df8e-8ce2-be4f-a95a-ce6aab84a5de++2837"
+    }
+  ]
+}
